@@ -55,5 +55,3 @@ This stack is suitable for learning and small-scale monitoring.
 All components run via Docker on WSL2, making it portable and easy to reset.
 
 
-
-Do you want me to do that?
