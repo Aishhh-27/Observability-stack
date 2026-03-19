@@ -54,6 +54,6 @@ This stack is suitable for learning and small-scale monitoring.
 
 All components run via Docker on WSL2, making it portable and easy to reset.
 
-5–6 line “GitHub project description” version with the author included — perfect for your resume/projects page.
+
 
 Do you want me to do that?
